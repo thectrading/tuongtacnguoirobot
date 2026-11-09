@@ -1,0 +1,17 @@
+{
+  "github_public_verified": false,
+  "github_remote_url": null,
+  "blocking_item": "GitHub connection is not installed/authenticated in this session",
+  "core_tests": 10,
+  "speech_decoder_tests": 3,
+  "mock_action_tests": 6,
+  "nav2_simulation_goals_succeeded": 5,
+  "report_pages": 2,
+  "demo_duration_s": 264.2,
+  "demo_audio_source": "SYNTHETIC_GOOGLE_TTS_AUDIO",
+  "human_microphone_accuracy_tested": false,
+  "detailed_word_report_pages": 25,
+  "detailed_word_report_chapters": 22,
+  "detailed_word_figures": 8,
+  "detailed_word_tables": 18
+}

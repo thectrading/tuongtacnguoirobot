@@ -1,0 +1,60 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/chuc/workspaces/bai07_voice_navigation/build/turtlebot4_slam_nav
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/launch/autonomy.launch.py
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/launch/demo_objects.launch.py
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/launch/localization.launch.py
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/launch/mapping.launch.py
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/launch/navigation.launch.py
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/launch/simulation.launch.py
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/config/cyclonedds_local.xml
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/config/localization.yaml
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/config/nav2.yaml
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/config/slam.yaml
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/config/waypoints.yaml
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/config/yolo.yaml
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/rviz/autonomy.rviz
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/rviz/camera.rviz
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/rviz/demo.rviz
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/rviz/lab.rviz
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/rviz/recording.rviz
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/maps/README.md
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/maps/map.pgm
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/maps/map.yaml
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/README.md
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/LICENSE
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/lib/turtlebot4_slam_nav/prepare_ogre2_overlay.py
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/lib/turtlebot4_slam_nav/prepare_camera_overlay.py
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/scripts/lab_env.bash
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/ament_index/resource_index/package_run_dependencies/turtlebot4_slam_nav
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/ament_index/resource_index/parent_prefix_path/turtlebot4_slam_nav
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/environment/ament_prefix_path.sh
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/environment/ament_prefix_path.dsv
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/environment/path.sh
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/environment/path.dsv
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/local_setup.bash
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/local_setup.sh
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/local_setup.zsh
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/local_setup.dsv
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/package.dsv
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/ament_index/resource_index/packages/turtlebot4_slam_nav
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/cmake/turtlebot4_slam_navConfig.cmake
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/cmake/turtlebot4_slam_navConfig-version.cmake
+-- Symlinking: /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_slam_nav/share/turtlebot4_slam_nav/package.xml

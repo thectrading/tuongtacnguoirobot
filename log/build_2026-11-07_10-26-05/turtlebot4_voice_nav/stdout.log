@@ -1,0 +1,20 @@
+running develop
+running egg_info
+writing turtlebot4_voice_nav.egg-info/PKG-INFO
+writing dependency_links to turtlebot4_voice_nav.egg-info/dependency_links.txt
+writing entry points to turtlebot4_voice_nav.egg-info/entry_points.txt
+writing requirements to turtlebot4_voice_nav.egg-info/requires.txt
+writing top-level names to turtlebot4_voice_nav.egg-info/top_level.txt
+reading manifest file 'turtlebot4_voice_nav.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'turtlebot4_voice_nav.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_voice_nav/lib/python3.10/site-packages/turtlebot4-voice-nav.egg-link (link to .)
+Installing segment_map script to /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_voice_nav/lib/turtlebot4_voice_nav
+Installing voice_dashboard script to /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_voice_nav/lib/turtlebot4_voice_nav
+Installing voice_navigator script to /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_voice_nav/lib/turtlebot4_voice_nav
+
+Installed /home/chuc/workspaces/bai07_voice_navigation/build/turtlebot4_voice_nav
+running symlink_data
+symbolically linking /home/chuc/workspaces/bai07_voice_navigation/build/turtlebot4_voice_nav/README.md -> /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_voice_nav/share/turtlebot4_voice_nav
+symbolically linking /home/chuc/workspaces/bai07_voice_navigation/build/turtlebot4_voice_nav/LICENSE -> /home/chuc/workspaces/bai07_voice_navigation/install/turtlebot4_voice_nav/share/turtlebot4_voice_nav
